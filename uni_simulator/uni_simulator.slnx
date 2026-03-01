@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="uni_simulator/uni_simulator.vcxproj" Id="2bae9ef5-fa27-4a23-83be-36241901522b" />
+</Solution>
